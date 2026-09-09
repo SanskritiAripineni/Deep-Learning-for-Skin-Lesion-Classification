@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Notebooks and editors
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+.vscode/
+
+# Data and generated model artifacts
+data/
+artifacts/
+output/
+*.keras
+*.h5
+*.tflite
